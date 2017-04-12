@@ -74,8 +74,11 @@ public final class MarqueeGestureRecognizer: UIPanGestureRecognizer {
 }
 
 let view = UIView(frame: CGRect(x: 0, y: 0, width: 320, height: 320))
-view.backgroundColor = .black
-view.addGestureRecognizer(MarqueeGestureRecognizer(target: nil, action: nil))
+view.backgroundColor = .white
+
+let gesture = MarqueeGestureRecognizer(target: nil, action: nil)
+gesture.tintColor = UIColor(red: 52/255, green: 119/255, blue: 154/255, alpha: 1.0)
+view.addGestureRecognizer(gesture)
 
 PlaygroundPage.current.liveView = view
 PlaygroundPage.current.needsIndefiniteExecution = true
