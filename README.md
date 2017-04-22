@@ -26,7 +26,7 @@ To checkout the code, either download this repo or grab the [Playground from her
 <p style="text-align: center; color: gray">Pinch</p>
 </td>
 </tr></table>
-￼
+
 ## Marquee Selection
 
 <p><img src="https://static1.squarespace.com/static/58d1c3c1b3db2b27db51464f/t/58eeb70486e6c0436ed702e9/1492039434861/" style="width: 25%" /></p>
