@@ -8,7 +8,7 @@ To checkout the code, either download this repo or grab the [Playground from her
 
 `UIGestureRecogniser`'s are a really powerful way of working with touch events in iOS. They allow us to handle taps, pans, pinches and more. Through a simple state-driven API we can easily use them to detect lots of types of interactions in our apps.
 
-<table><tr style="border: none">
+<p><table><tr style="border: none">
 <td style="border: none">
 <img src="https://static1.squarespace.com/static/58d1c3c1b3db2b27db51464f/58eeb460d2b857e333ce58f2/58eeb460197aea0b0db0963a/1492038781962/noun_718412_cc.png" alt="Pan" />￼
 <p style="text-align: center; color: gray">Pan</p>
@@ -25,7 +25,7 @@ To checkout the code, either download this repo or grab the [Playground from her
 <img src="https://static1.squarespace.com/static/58d1c3c1b3db2b27db51464f/58eeb460d2b857e333ce58f2/58eeb460bf629a9dbf4529f4/1492038802032/noun_718449_cc.png" alt="Pinch" />
 <p style="text-align: center; color: gray">Pinch</p>
 </td>
-</tr></table>
+</tr></table></p>
 
 ## Marquee Selection
 
