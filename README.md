@@ -2,6 +2,8 @@
 
 The playground demonstrates using a `UIPanGestureRecognizer` to create a marquee selection tool that you can use in any UIView.
 
+To checkout the code, either download this repo or grab the [Playground from here](https://github.com/152percent/MarqueeGestureRecognizer/releases/tag/1.0).
+
 ## Gestures
 
 `UIGestureRecogniser`'s are a really powerful way of working with touch events in iOS. They allow us to handle taps, pans, pinches and more. Through a simple state-driven API we can easily use them to detect lots of types of interactions in our apps.
